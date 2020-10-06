@@ -1,0 +1,19 @@
+.button {
+    -fx-font-weight: bold;
+    -fx-text-field: #fffff;
+    
+}
+.button_add{
+    -fx-backgraund-color: #389804;
+}
+.button_edit{
+    -fx-backgraund-color: #DDF200;
+}
+.button_del{
+    -fx-backgraund-color: #F81010;
+}
+
+.background{
+    -fx-backgraund-color: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
